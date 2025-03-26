@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "1d017146057321dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e4a9ce3ec6958ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4444b44b9a77f6e7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0937d9927e050ea0",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3723fba981f2d41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7682ca3cb82273f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b4a38dbe59a0bd8d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7aa02aa68e184bfb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "900664d2471002a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d199fdb76016c06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd5195bcc0760a5c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Study Material/Resource/스크린샷_2025-02-12_172842.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 스크린샷_2025-02-12_172842"
+            }
+          },
+          {
+            "id": "f51555613ebf6229",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Study Material/Resource/스크린샷_2025-02-12_172842.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 스크린샷_2025-02-12_172842"
+            }
+          },
+          {
+            "id": "ce429e7cb7d6eb3b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7848593f5842fb4c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Study Material/Resource/스크린샷_2025-02-12_172842.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 스크린샷_2025-02-12_172842"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "7682ca3cb82273f1",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "Study Material/Resource",
+    "Study Material/Resource/image 1.png",
+    "Study Material/Resource/image 2.png",
+    "Study Material/Resource/image.png",
+    "Study Material/Resource/스크린샷_2025-02-12_172842.png",
+    "Study Material/Resource/ai-generated-8298737_1280.png",
+    "Study Material/Documents/dsdd.md",
+    "Study Material/Documents/제목 없음.md",
+    "Study Material/Documents/Optimizer.md",
+    "Study Material/Documents/Actor-Critic Structure.md",
+    "Study Material/Documents/Reinforce Algorithm Code.md",
+    "Study Material/Documents/A3C.md",
+    "Study Material/Documents/TD.md",
+    "Study Material/Documents/Reinforce Algorithm.md",
+    "Study Material/Documents/A2C.md",
+    "Study Material/Documents/Option Trading/Option Trading.md",
+    "Study Material/Documents/Differentiation of Expected Compensation.md",
+    "Study Material/Documents/Black-Scholes Theory.md",
+    "Study Material/Documents/Futures Trading.md",
+    "Study Material/Documents/Advantage Actor-Critict.md",
+    "Study Material/Documents/Expected Return.md",
+    "Study Material/Documents/Deterministic Policy/Deterministic Policy.md",
+    "Study Material/Documents/Policy Gradient Theorem.md",
+    "Study Material/Documents/Policy Gradient Algorithm.md",
+    "Study Material/Documents/Dueling DQN.md",
+    "Study Material/Documents/Q-Learning.md",
+    "Study Material/Documents/Double DQN.md",
+    "Study Material/Documents/1. The Black-Scholes Formulas.md",
+    "Study Material/Documents/MDP.md",
+    "Study Material/Documents/Delta Hedge.md",
+    "Study Material/Documents/DQN/DQN.md",
+    "Study Material/Documents/Option Trading",
+    "Study Material/Documents/Deterministic Policy",
+    "Study Material/Documents/DQN",
+    "Study Material/Documents/LSTM",
+    "Study Material/Documents",
+    "Study Material"
+  ]
+}
