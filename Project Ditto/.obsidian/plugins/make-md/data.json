@@ -35,9 +35,10 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
     "//Project Basis",
-    "//Study Material"
+    "//Study Material",
+    "/",
+    "//Study Material/Study Material/Resource"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
