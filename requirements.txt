@@ -1,0 +1,23 @@
+# 웬만하면 가상환경 만들기 : 다운그레이드가 좀 필요함
+# Core ML & NLP
+torch==2.3.0
+transformers==4.35.2
+sentence-transformers==2.2.2
+scikit-learn==1.6.1
+
+# HuggingFace compatibility for KeyBERT
+huggingface_hub==0.14.1
+
+# KeyBERT
+keybert==0.7.0
+
+# Data processing
+pandas==2.2.2
+numpy==1.26.2
+tqdm==4.66.4
+nltk==3.8.1
+requests==2.32.3
+beautifulsoup4==4.12.3
+
+# Optional for CSV / Parquet export
+pyarrow>=14.0.0

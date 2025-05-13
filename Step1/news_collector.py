@@ -49,7 +49,7 @@ def find_first_valid_date_span(spans):
 # 각 회사에 대해 뉴스 리스트 반환
 def get_news_visible(company, start_dt, delay=2.0):
     options = webdriver.ChromeOptions()
-    options.add_argument("--headless") # 브라우저 보고싶으면 주석
+    # options.add_argument("--headless") # 브라우저 보고싶으면 주석
     options.add_argument("--lang=ko-KR")
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
 
@@ -65,7 +65,7 @@ def get_news_visible(company, start_dt, delay=2.0):
 
         news_blocks = driver.find_elements(
             By.CSS_SELECTOR,
-            'div.sds-comps-vertical-layout.sds-comps-full-layout.EPe0s1rCZZ86kDLT_SY2'
+            'div.sds-comps-vertical-layout.sds-comps-full-layout.dZQQMujvOqnxG1bUQsg6'
         )
 
         if not news_blocks:
@@ -74,7 +74,7 @@ def get_news_visible(company, start_dt, delay=2.0):
 
         for block in news_blocks:
             try:
-                link_elem = block.find_element(By.CSS_SELECTOR, 'a.lu8Lfh20c9DvvP05mqBf.tym_MoKIfC84Aqvg9SKg')
+                link_elem = block.find_element(By.CSS_SELECTOR, "a.n6AJosQA40hUOAe_Vplg.cdv6mdm2_kpW2D6slkm6")
                 title_elem = link_elem.find_element(By.CSS_SELECTOR, 'span.sds-comps-text-type-headline1')
                 title_text = title_elem.text.strip()
                 href = link_elem.get_attribute("href").strip()
@@ -83,7 +83,6 @@ def get_news_visible(company, start_dt, delay=2.0):
                 date_text = find_first_valid_date_span(spans)
                 if not date_text:
                     continue
-
                 date_str = convert_relative_date(date_text)
                 news_date = datetime.strptime(date_str, "%Y.%m.%d")
 
