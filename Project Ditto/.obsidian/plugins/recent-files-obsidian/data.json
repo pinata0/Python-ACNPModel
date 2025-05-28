@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Roadmap",
+      "path": "Project Basis/Roadmap.md"
+    },
+    {
+      "basename": "Project Basis",
+      "path": "Project Basis/Project Basis.md"
+    },
+    {
       "basename": "파이프라인",
       "path": "Project Basis/파이프라인.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "Study Material",
       "path": "Study Material/Study Material.md"
-    },
-    {
-      "basename": "Project Basis",
-      "path": "Project Basis/Project Basis.md"
     }
   ],
   "omittedPaths": [],
