@@ -37,7 +37,13 @@
   "expandedSpaces": [
     "//Project Basis",
     "/",
-    "//Study Material/Study Material/Resource"
+    "//Study Material/Study Material/Documents/Study Material/Documents/DQN",
+    "//Study Material/Study Material/Documents/Study Material/Documents/Deterministic Policy",
+    "//Study Material/Study Material/Documents/Study Material/Documents/LSTM",
+    "//Study Material/Study Material/Documents/Study Material/Documents/Option Trading",
+    "//Study Material",
+    "//Study Material/Study Material/Resource",
+    "//Study Material/Study Material/Documents"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

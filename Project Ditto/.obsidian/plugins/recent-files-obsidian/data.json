@@ -1,6 +1,98 @@
 {
   "recentFiles": [
     {
+      "basename": "프로젝트 기본 개요",
+      "path": "Project Basis/프로젝트 기본 개요.md"
+    },
+    {
+      "basename": "데이터셋 만들기",
+      "path": "Project Basis/데이터셋 만들기.md"
+    },
+    {
+      "basename": "주식 거래 상호작용 추적 기본 구조",
+      "path": "Project Basis/주식 거래 상호작용 추적 기본 구조.md"
+    },
+    {
+      "basename": "Option Trading",
+      "path": "Study Material/Documents/Option Trading/Option Trading.md"
+    },
+    {
+      "basename": "Optimizer",
+      "path": "Study Material/Documents/Optimizer.md"
+    },
+    {
+      "basename": "Double DQN",
+      "path": "Study Material/Documents/Double DQN.md"
+    },
+    {
+      "basename": "Dueling DQN",
+      "path": "Study Material/Documents/Dueling DQN.md"
+    },
+    {
+      "basename": "Futures Trading",
+      "path": "Study Material/Documents/Futures Trading.md"
+    },
+    {
+      "basename": "Expected Return",
+      "path": "Study Material/Documents/Expected Return.md"
+    },
+    {
+      "basename": "Deterministic Policy",
+      "path": "Study Material/Documents/Deterministic Policy/Deterministic Policy.md"
+    },
+    {
+      "basename": "DQN",
+      "path": "Study Material/Documents/DQN/DQN.md"
+    },
+    {
+      "basename": "dsdd",
+      "path": "Study Material/Documents/dsdd.md"
+    },
+    {
+      "basename": "Delta Hedge",
+      "path": "Study Material/Documents/Delta Hedge.md"
+    },
+    {
+      "basename": "Differentiation of Expected Compensation",
+      "path": "Study Material/Documents/Differentiation of Expected Compensation.md"
+    },
+    {
+      "basename": "Advantage Actor-Critict",
+      "path": "Study Material/Documents/Advantage Actor-Critict.md"
+    },
+    {
+      "basename": "Black-Scholes Theory",
+      "path": "Study Material/Documents/Black-Scholes Theory.md"
+    },
+    {
+      "basename": "A2C",
+      "path": "Study Material/Documents/A2C.md"
+    },
+    {
+      "basename": "DDPG",
+      "path": "Study Material/Documents/DDPG.md"
+    },
+    {
+      "basename": "A3C",
+      "path": "Study Material/Documents/A3C.md"
+    },
+    {
+      "basename": "Actor-Critic Structure",
+      "path": "Study Material/Documents/Actor-Critic Structure.md"
+    },
+    {
+      "basename": "1. The Black-Scholes Formulas",
+      "path": "Study Material/Documents/1. The Black-Scholes Formulas.md"
+    },
+    {
+      "basename": "2. Necessary Math Theorems",
+      "path": "Study Material/Documents/2. Necessary Math Theorems.md"
+    },
+    {
+      "basename": "Study Material",
+      "path": "Study Material/Study Material.md"
+    },
+    {
       "basename": "Roadmap",
       "path": "Project Basis/Roadmap.md"
     },
@@ -13,24 +105,8 @@
       "path": "Project Basis/파이프라인.md"
     },
     {
-      "basename": "프로젝트 기본 개요",
-      "path": "Project Basis/프로젝트 기본 개요.md"
-    },
-    {
-      "basename": "주식 거래 상호작용 추적 기본 구조",
-      "path": "Project Basis/주식 거래 상호작용 추적 기본 구조.md"
-    },
-    {
-      "basename": "데이터셋 만들기",
-      "path": "Project Basis/데이터셋 만들기.md"
-    },
-    {
       "basename": "Drawing 2025-04-02 13.41.21.excalidraw",
       "path": "Excalidraw/Drawing 2025-04-02 13.41.21.excalidraw.md"
-    },
-    {
-      "basename": "Study Material",
-      "path": "Study Material/Study Material.md"
     }
   ],
   "omittedPaths": [],
